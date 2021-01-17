@@ -1,4 +1,4 @@
-# BJRambos's Dev Story
+# Johnny's Dev Story
 
 ### 프론트 앤드 사용 언어
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
